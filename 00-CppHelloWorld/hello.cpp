@@ -1,6 +1,8 @@
 /*
-
-
+* Hello.cpp 
+* Sale en consola "Hello World!"
+* Alan Ezquiel Zacarias
+* 20250420
 */
 
 #include <iostream>
